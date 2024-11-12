@@ -1,5 +1,3 @@
-# E2A-Season-4---The-Analytics-Challenge-
-
 # Real-time Analytics Dashboard for SwiftKart
 
 SwiftKart aims to optimize dark store operations and delivery management through a real-time analytics dashboard that provides actionable insights into critical operational metrics. This dashboard will help identify inefficiencies, enhance delivery performance, and support data-driven decision-making for strategic growth.
