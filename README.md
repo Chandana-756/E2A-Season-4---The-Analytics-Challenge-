@@ -53,3 +53,16 @@ SwiftKart aims to optimize dark store operations and delivery management through
 - **Collaboration**: Encourage cross-team collaboration to leverage insights.
 
 
+## Contributors
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Chandana-756">@Chandana-756</a></td>
+    <td align="center"><a href="https://github.com/Preethi-Puttambaku">@Preethi-Puttambaku</a></td>
+    </tr>
+  <tr>
+    <td align="center">Chandana Reddy</td>
+    <td align="center">Preethi Puttambaku</td>
+    </tr>
+</table>
+
